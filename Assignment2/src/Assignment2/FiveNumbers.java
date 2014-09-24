@@ -8,7 +8,7 @@
  * 4.Sort the array from least to greatest with a for loop
  * 5. Compute max,min,median,mode,sum,average
  * 6.Output
- */
+ *  */
 package Assignment2;
 
 import java.util.*;
